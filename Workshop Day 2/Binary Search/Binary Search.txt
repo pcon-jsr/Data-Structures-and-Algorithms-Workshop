@@ -1,0 +1,45 @@
+Linear Search
+Question
+1.Find the missing number in an array
+->Linear Approach
+->Sum Approach
+->XOR approach
+
+
+What is search space?
+The area of search under consideration.
+
+What is Binary Search?
+-> Divide and Conquer Approach
+-> O(log2 n) time complexity?
+Even if we had 1 billion elements binary search will still be able to find our key in at most 30 steps.
+        At each step we divide the search space into two parts hence the name binary.
+        
+        For the given array 
+        11 13 17 19 20 25 89
+        0   1  2  3  4  5  6
+        What is the search space here?
+        Ans->
+        
+Where do we see binary search in general?
+1.Searching in dictionary
+2.Newton Raphson Method(Engineering Mathematics)
+
+
+1.Monotonic function Invariants.
+->Graph with min value k(increasing)
+->graph with max value k(Decreasing)
+
+
+2.Find the smallest positive missing number
+->Binary Search
+
+
+3.Search on prefix sum array
+->linear approach
+->Binary search(for queries)
+
+
+4.Search in a sorted and Rotated Array
+->linear approach
+->binary Search
