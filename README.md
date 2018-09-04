@@ -11,3 +11,4 @@
   3. [Easy 2](https://www.hackerearth.com/practice/data-structures/hash-tables/basics-of-hash-tables/practice-problems/algorithm/the-electric-type/)
   4. [Easy Medium 1](https://www.hackerearth.com/practice/data-structures/hash-tables/basics-of-hash-tables/practice-problems/algorithm/mind-palaces-3/)
   5. [Medium Hard 1](https://www.hackerrank.com/challenges/sherlock-and-anagrams/problem?h_l=interview&playlist_slugs%5B%5D%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D%5B%5D=dictionaries-hashmaps)
+  6.[Easy Medium 2](https://practice.geeksforgeeks.org/problems/relative-sorting/0)
