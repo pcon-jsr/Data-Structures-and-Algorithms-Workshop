@@ -1,0 +1,71 @@
+/-------------------Standard Template Library-----------------------------/
+
+/----------------------------------Set------------------------------/
+
+Sets are a part of the C++ STL. Sets are containers that store unique elements following a specific order. Here are some of the frequently used member functions of sets:
+
+Declaration:
+set<int>s; //Creates a set of integers.
+
+
+Size:
+int length=s.size(); //Gives the size of the set.
+
+
+Insert:
+s.insert(x); //Inserts an integer x into the set s.
+
+
+Erasing an element:
+s.erase(val); //Erases an integer val from the set s.
+
+
+Finding an element:
+set<int>::iterator itr=s.find(val); //Gives the iterator to the element val if it is found otherwise returns s.end() .
+
+Ex: set<int>::iterator itr=s.find(100); //If 100 is not present then it==s.end().
+
+
+
+
+/------------------Map-----------------/
+
+Maps are a part of the C++ STL.Maps are associative containers that store elements formed by a combination of a key value and a mapped value, following a specific order.The mainly used member functions of maps are:
+
+Map Template:
+map <key_type, data_type>
+
+Declaration:
+map<string,int>m; //Creates a map m where key_type is of type string and data_type is of type int.
+
+
+Size:
+int length=m.size(); //Gives the size of the map.
+
+
+
+Insert:
+m.insert(make_pair("hello",9)); //Here the pair is inserted into the map where the key is "hello" and the value associated with it is 9.
+
+
+
+Erasing an element:
+m.erase(val); //Erases the pair from the map where the key_type is val.
+
+
+
+Finding an element:
+map<string,int>::iterator itr=m.find(val); 
+//Gives the iterator to the element val if it is found otherwise returns m.end() .
+
+Ex: map<string,int>::iterator itr=m.find("Maps"); //If Maps is not present as the key value then itr==m.end().
+
+Accessing the value stored in the key:
+To get the value stored of the key "MAPS" we can do m["MAPS"] or we can get the iterator using the find function and then by itr->second we can access the value.
+Ex-
+map<string,int>::iterator itr=m.find(val);
+cout<<it->second<<"\n";
+
+
+
+
