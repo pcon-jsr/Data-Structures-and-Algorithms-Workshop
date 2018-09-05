@@ -33,3 +33,11 @@
    10. [Easy 1 Array](https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/long-atm-queue-3/)
    11. [Easy 2 Array](https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/can-you-solve-it/)
    12. [Medium Array](http://codeforces.com/problemset/problem/224/B)
+   
+## Day 3 : Stacks, Queues , Strings
+ * Further Reading
+   1. [Expression Evaluation using Stacks](https://www.geeksforgeeks.org/expression-evaluation/)
+   2. [Longest Substring with k distinct characters](https://www.geeksforgeeks.org/find-the-longest-substring-with-k-unique-characters-in-a-given-string/)
+   3. [Maximum in sliding window of length k](https://www.geeksforgeeks.org/sliding-window-maximum-maximum-of-all-subarrays-of-size-k/)
+   4. [Maximum area in a histogram](https://www.geeksforgeeks.org/largest-rectangle-under-histogram/)
+   
