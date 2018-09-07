@@ -53,7 +53,8 @@
    7. [Easy 3 Stack and Queue](https://www.hackerearth.com/practice/data-structures/stacks/basics-of-stacks/practice-problems/algorithm/staque-1-e790a29f/)
    8. [Easy Medium 1 Stack and Queue](https://www.hackerrank.com/challenges/game-of-two-stacks/problem)
    9. [Easy Medium 2 Stack and Queue](https://www.hackerrank.com/challenges/castle-on-the-grid/problem)
- ## Day 4 : Trees , Heaps
+
+## Day 4 : Trees , Heaps
   * Further Reading
     1. [Handshaking Lemma](https://www.geeksforgeeks.org/handshaking-lemma-and-interesting-tree-properties/)
     2. [Binary Tree Types](https://www.geeksforgeeks.org/binary-tree-set-3-types-of-binary-tree/)
@@ -71,3 +72,14 @@
     4. [Easy 1 Priority Queue](https://www.hackerearth.com/practice/data-structures/trees/heapspriority-queues/practice-problems/algorithm/monk-and-multiplication/)
     5. [Easy 2 Priority Queue](https://practice.geeksforgeeks.org/problems/minimum-cost-of-ropes/0)
     6. [Easy Medium 1 Priority Queue](https://practice.geeksforgeeks.org/problems/merge-k-sorted-arrays/1)
+    
+## Day 5 : Trie , Segment Tree
+ * Further Reading
+   1. [Blog on Tries](https://threads-iiith.quora.com/Tutorial-on-Trie-and-example-problems)
+   2. [Codeforces blog on Segment Tree](https://codeforces.com/blog/entry/18051)
+   3. [Blog on Segment Trees](https://kartikkukreja.wordpress.com/2014/11/09/a-simple-approach-to-segment-trees/)
+   4. [Codes used during lectures](https://github.com/pcon-jsr/Data-Structures-and-Algorithms-Workshop/tree/master/Workshop%20Day%205)
+* Practice Problems
+   1. [Medium 1 Trie](https://www.hackerearth.com/practice/data-structures/advanced-data-structures/trie-keyword-tree/practice-problems/algorithm/registration-system/)
+   2. [Medium 1 Segment Tree](https://www.spoj.com/problems/HORRIBLE/)
+   3. [Medium 2 Segment Tree](https://www.hackerearth.com/practice/data-structures/advanced-data-structures/segment-trees/practice-problems/algorithm/little-deepu-and-array/)
