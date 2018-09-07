@@ -1,0 +1,7 @@
+Segment Tree is an advanced data structure which is used to do Range Queries and Many other things.
+
+Notes-
+* Segment Tree is a full binary tree.(Sorry for telling Complete Binary Tree :p).
+* Segment Tree has a total of ((2*n)-1) nodes.
+* Segment Tree is represented as an array in practice.
+* Use upto 4*n space for array if n is the size of the array. 
