@@ -83,3 +83,7 @@
    1. [Medium 1 Trie](https://www.hackerearth.com/practice/data-structures/advanced-data-structures/trie-keyword-tree/practice-problems/algorithm/registration-system/)
    2. [Medium 1 Segment Tree](https://www.spoj.com/problems/HORRIBLE/)
    3. [Medium 2 Segment Tree](https://www.hackerearth.com/practice/data-structures/advanced-data-structures/segment-trees/practice-problems/algorithm/little-deepu-and-array/)
+   
+## Day 6 : Graph Theory I
+  * Further Reading
+    1. 
