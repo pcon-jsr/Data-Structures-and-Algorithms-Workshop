@@ -83,3 +83,24 @@
    1. [Medium 1 Trie](https://www.hackerearth.com/practice/data-structures/advanced-data-structures/trie-keyword-tree/practice-problems/algorithm/registration-system/)
    2. [Medium 1 Segment Tree](https://www.spoj.com/problems/HORRIBLE/)
    3. [Medium 2 Segment Tree](https://www.hackerearth.com/practice/data-structures/advanced-data-structures/segment-trees/practice-problems/algorithm/little-deepu-and-array/)
+   
+## Day 6 : Graph Theory I
+  * Further Reading
+    1. [Breadth First Search](https://www.hackerearth.com/practice/algorithms/graphs/breadth-first-search/tutorial/)
+    2. [Depth First Search](https://www.hackerearth.com/practice/algorithms/graphs/depth-first-search/tutorial/)
+    3. [Disjoint Set Union (DSU)](https://www.hackerearth.com/practice/data-structures/disjoint-data-strutures/basics-of-disjoint-data-structures/tutorial/)
+  * Practice Problems
+    1. [Easy 1 BFS](https://www.hackerearth.com/practice/algorithms/graphs/breadth-first-search/practice-problems/algorithm/monk-and-the-islands/)
+    2. [Easy Medium 1 BFS](https://www.hackerearth.com/practice/algorithms/graphs/breadth-first-search/practice-problems/algorithm/the-circular-jump-9515a45c/)
+    3. [Easy Medium 2 BFS](https://www.hackerearth.com/practice/algorithms/graphs/breadth-first-search/practice-problems/algorithm/the-witches-of-hegwarts-1/)
+    4. [Easy Medium 3 BFS](https://www.hackerearth.com/practice/algorithms/graphs/breadth-first-search/practice-problems/algorithm/dhoom-4/)
+    5. [Medium BFS](https://www.hackerearth.com/practice/algorithms/graphs/breadth-first-search/practice-problems/algorithm/connected-horses-10/)
+    6. [Easy 1 DFS](https://www.hackerearth.com/practice/algorithms/graphs/depth-first-search/practice-problems/algorithm/aryas-stunt-63b3da17/)
+    7. [Easy 2 DFS](https://www.hackerearth.com/practice/algorithms/graphs/depth-first-search/practice-problems/algorithm/monk-and-graph-problem/)
+    8. [Easy Medium DFS](https://www.hackerearth.com/practice/algorithms/graphs/depth-first-search/practice-problems/algorithm/easylife/description/)
+    9. [Medium DFS](https://www.hackerearth.com/practice/algorithms/graphs/depth-first-search/practice-problems/algorithm/sg-and-trees/)
+    10. [Medium DFS](https://www.hackerearth.com/practice/algorithms/graphs/depth-first-search/practice-problems/algorithm/prison-break-5/)
+    11. [Medium DFS](https://www.hackerearth.com/practice/algorithms/graphs/depth-first-search/practice-problems/algorithm/comrades-i-3/)
+    12. [Easy MST(Maximum Spanning Tree)](https://www.hackerearth.com/practice/algorithms/graphs/depth-first-search/practice-problems/algorithm/maximum-spanning-tree/)
+    13. [Medium DSU(Disjoint Set Union)](https://code.google.com/codejam/contest/3254486/dashboard#s=p1)
+    14. [Hard DSU](http://codeforces.com/contest/1027/problem/F)
