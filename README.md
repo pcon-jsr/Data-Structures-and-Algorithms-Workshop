@@ -102,3 +102,5 @@
     10. [Medium DFS](https://www.hackerearth.com/practice/algorithms/graphs/depth-first-search/practice-problems/algorithm/prison-break-5/)
     11. [Medium DFS](https://www.hackerearth.com/practice/algorithms/graphs/depth-first-search/practice-problems/algorithm/comrades-i-3/)
     12. [Easy MST(Maximum Spanning Tree)](https://www.hackerearth.com/practice/algorithms/graphs/depth-first-search/practice-problems/algorithm/maximum-spanning-tree/)
+    13. [Medium DSU(Disjoint Set Union)](https://code.google.com/codejam/contest/3254486/dashboard#s=p1)
+    14. [Hard DSU](http://codeforces.com/contest/1027/problem/F)
