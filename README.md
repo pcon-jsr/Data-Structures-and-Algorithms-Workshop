@@ -89,6 +89,8 @@
     1. [Breadth First Search](https://www.hackerearth.com/practice/algorithms/graphs/breadth-first-search/tutorial/)
     2. [Depth First Search](https://www.hackerearth.com/practice/algorithms/graphs/depth-first-search/tutorial/)
     3. [Disjoint Set Union (DSU)](https://www.hackerearth.com/practice/data-structures/disjoint-data-strutures/basics-of-disjoint-data-structures/tutorial/)
+    4. [Minimum Spanning Tree](https://www.hackerearth.com/practice/algorithms/graphs/minimum-spanning-tree/tutorial/)
+    5. [Dijkstra](https://www.hackerearth.com/practice/algorithms/graphs/shortest-path-algorithms/tutorial/)
   * Practice Problems
     1. [Easy 1 BFS](https://www.hackerearth.com/practice/algorithms/graphs/breadth-first-search/practice-problems/algorithm/monk-and-the-islands/)
     2. [Easy Medium 1 BFS](https://www.hackerearth.com/practice/algorithms/graphs/breadth-first-search/practice-problems/algorithm/the-circular-jump-9515a45c/)
@@ -104,3 +106,4 @@
     12. [Easy MST(Maximum Spanning Tree)](https://www.hackerearth.com/practice/algorithms/graphs/depth-first-search/practice-problems/algorithm/maximum-spanning-tree/)
     13. [Medium DSU(Disjoint Set Union)](https://code.google.com/codejam/contest/3254486/dashboard#s=p1)
     14. [Hard DSU](http://codeforces.com/contest/1027/problem/F)
+    15. [Medium Hard](http://codeforces.com/contest/1037/problem/E)
