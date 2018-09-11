@@ -90,7 +90,6 @@
     2. [Depth First Search](https://www.hackerearth.com/practice/algorithms/graphs/depth-first-search/tutorial/)
     3. [Disjoint Set Union (DSU)](https://www.hackerearth.com/practice/data-structures/disjoint-data-strutures/basics-of-disjoint-data-structures/tutorial/)
     4. [Minimum Spanning Tree](https://www.hackerearth.com/practice/algorithms/graphs/minimum-spanning-tree/tutorial)
-
     5. [Dijkstra](https://www.hackerearth.com/practice/algorithms/graphs/shortest-path-algorithms/tutorial/)
     6. [Codes used during lectures](https://github.com/pcon-jsr/Data-Structures-and-Algorithms-Workshop/tree/master/Workshop%20Day%206)
   * Practice Problems
@@ -109,3 +108,21 @@
     13. [Medium DSU(Disjoint Set Union)](https://code.google.com/codejam/contest/3254486/dashboard#s=p1)
     14. [Hard DSU](http://codeforces.com/contest/1027/problem/F)
     15. [Medium Hard](http://codeforces.com/contest/1037/problem/E)
+    16. [Easy Medium](https://www.hackerrank.com/challenges/torque-and-development/problem)
+  ## Day 7 : Graph 2
+   * Further Reading
+      1. [Strongly Connected Components](https://www.hackerearth.com/practice/algorithms/graphs/strongly-connected-components/tutorial/)
+      2. [Euler Tour](https://www.geeksforgeeks.org/euler-tour-tree/)
+      3. [Hamiltonian Path](https://www.hackerearth.com/practice/algorithms/graphs/hamiltonian-path/tutorial/)
+      4. [Articulation Points and Bridges](https://www.hackerearth.com/practice/algorithms/graphs/articulation-points-and-bridges/practice-problems/)
+  * Practice Problems
+    1. [Shortest Path Easy 1](https://www.hackerearth.com/practice/algorithms/graphs/shortest-path-algorithms/practice-problems/algorithm/mittal-wants-to-go-to-play/)
+    2. [Shortest Path Easy Medium 1](https://www.hackerearth.com/practice/algorithms/graphs/shortest-path-algorithms/practice-problems/algorithm/irctc/)
+    3. [Shortest Path Medium 1](https://www.hackerrank.com/challenges/dijkstrashortreach/submissions)
+    4. [Hamiltonian Path Easy 1](https://www.hackerearth.com/practice/algorithms/graphs/hamiltonian-path/practice-problems/algorithm/micro-and-coins/)
+    5. [Hamiltonian Path Easy 2](https://www.hackerearth.com/practice/algorithms/graphs/hamiltonian-path/practice-problems/algorithm/micro-and-permutations/)
+    6. [SCC Easy 1](https://www.hackerearth.com/practice/algorithms/graphs/strongly-connected-components/practice-problems/algorithm/a-walk-to-remember-qualifier2/)
+    7. [Shortest Path Easy Medium 2](https://www.hackerearth.com/practice/algorithms/graphs/shortest-path-algorithms/practice-problems/algorithm/booze-first-76e979dd/)
+    8. [Bridges and AP Easy 1](https://www.hackerearth.com/practice/algorithms/graphs/articulation-points-and-bridges/practice-problems/algorithm/rhezo-and-destructive-mind/)
+    9. [Bridges and AP Easy Medium 2](https://www.hackerearth.com/practice/algorithms/graphs/articulation-points-and-bridges/practice-problems/algorithm/sg-and-graphs/)
+    
