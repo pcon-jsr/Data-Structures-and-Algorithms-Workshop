@@ -89,10 +89,10 @@
     1. [Breadth First Search](https://www.hackerearth.com/practice/algorithms/graphs/breadth-first-search/tutorial/)
     2. [Depth First Search](https://www.hackerearth.com/practice/algorithms/graphs/depth-first-search/tutorial/)
     3. [Disjoint Set Union (DSU)](https://www.hackerearth.com/practice/data-structures/disjoint-data-strutures/basics-of-disjoint-data-structures/tutorial/)
-    4. [Minimum Spanning Tree](https://www.hackerearth.com/practice/algorithms/graphs/minimum-spanning-tree/tutori
-al/)
+    4. [Minimum Spanning Tree](https://www.hackerearth.com/practice/algorithms/graphs/minimum-spanning-tree/tutorial)
+
     5. [Dijkstra](https://www.hackerearth.com/practice/algorithms/graphs/shortest-path-algorithms/tutorial/)
-    6. [Codes used during lectures]()
+    6. [Codes used during lectures](https://github.com/pcon-jsr/Data-Structures-and-Algorithms-Workshop/tree/master/Workshop%20Day%206)
   * Practice Problems
     1. [Easy 1 BFS](https://www.hackerearth.com/practice/algorithms/graphs/breadth-first-search/practice-problems/algorithm/monk-and-the-islands/)
     2. [Easy Medium 1 BFS](https://www.hackerearth.com/practice/algorithms/graphs/breadth-first-search/practice-problems/algorithm/the-circular-jump-9515a45c/)
