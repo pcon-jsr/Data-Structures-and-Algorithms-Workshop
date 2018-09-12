@@ -125,4 +125,18 @@
     7. [Shortest Path Easy Medium 2](https://www.hackerearth.com/practice/algorithms/graphs/shortest-path-algorithms/practice-problems/algorithm/booze-first-76e979dd/)
     8. [Bridges and AP Easy 1](https://www.hackerearth.com/practice/algorithms/graphs/articulation-points-and-bridges/practice-problems/algorithm/rhezo-and-destructive-mind/)
     9. [Bridges and AP Easy Medium 2](https://www.hackerearth.com/practice/algorithms/graphs/articulation-points-and-bridges/practice-problems/algorithm/sg-and-graphs/)
-    
+## Day 8 : Dynamic Programming I
+  * Further Reading
+    1. [Introduction to Dynamic Programming I](https://www.youtube.com/watch?v=OQ5jsbhAv_M&feature=youtu.be&list=PLfMspJ0TLR5HRFu2kLh3U4mvStMO8QURm)
+    2. [Introduction to Dynamic Programming II](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/MIT6_006F11_lec19.pdf)
+    3. [LCA - Lowest Common Ancestor and Sparse Table](https://www.topcoder.com/community/data-science/data-science-tutorials/range-minimum-query-and-lowest-common-ancestor/#Lowest%20Common%20Ancestor%20(LCA))
+    4. [Unbounded Knapsack](https://www.geeksforgeeks.org/unbounded-knapsack-repetition-items-allowed/)
+    5. [Fractional Knapsack](https://www.geeksforgeeks.org/fractional-knapsack-problem/)
+  * Practice Problems
+    1. [Maximim Sum such that no two elements are adjacent](https://www.geeksforgeeks.org/maximum-sum-such-that-no-two-elements-are-adjacent/)
+    2. [Maximum Sum sub array in an array(Kaden)](https://www.geeksforgeeks.org/largest-sum-contiguous-subarray/)
+    3. [Longest Increasing Subsequence](https://www.geeksforgeeks.org/longest-increasing-subsequence-dp-3/)
+    4. [Longest Common Subsequence in given two Strings](https://www.geeksforgeeks.org/longest-common-subsequence-dp-4/)
+    5. [0/1 Knapsach Bounded](https://www.geeksforgeeks.org/0-1-knapsack-problem-dp-10/)
+    6. [Easy Medium 1](https://www.hackerearth.com/practice/algorithms/dynamic-programming/introduction-to-dynamic-programming-1/practice-problems/algorithm/coin-problem-2/)
+    7. [Easy Medium 2](https://www.hackerearth.com/practice/algorithms/dynamic-programming/2-dimensional/practice-problems/algorithm/largest-subsequence-c554fb8c/)
