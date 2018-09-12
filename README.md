@@ -134,7 +134,7 @@
     5. [Fractional Knapsack](https://www.geeksforgeeks.org/fractional-knapsack-problem/)
   * Practice Problems
     1. [Maximim Sum such that no two elements are adjacent](https://www.geeksforgeeks.org/maximum-sum-such-that-no-two-elements-are-adjacent/)
-    2. [Maximum Sum sub array in an array(Kaden)](https://www.geeksforgeeks.org/largest-sum-contiguous-subarray/)
+    2. [Maximum Sum sub array in an array(Kadane’s Algorithm)](https://www.geeksforgeeks.org/largest-sum-contiguous-subarray/)
     3. [Longest Increasing Subsequence](https://www.geeksforgeeks.org/longest-increasing-subsequence-dp-3/)
     4. [Longest Common Subsequence in given two Strings](https://www.geeksforgeeks.org/longest-common-subsequence-dp-4/)
     5. [0/1 Knapsach Bounded](https://www.geeksforgeeks.org/0-1-knapsack-problem-dp-10/)
